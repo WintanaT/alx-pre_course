@@ -1,9 +1,9 @@
 # alx-pre_course
 I'm now a ALX Student, this is my first repository as a full-stack engineer
 
-## On my computer, I opened a terminal and do the following:
+## On my computer, I opened a terminal and did the following:
 
-* And then i Navigated to your home directory. 
+* And then i Navigated to my home directory. 
 * next i Created a directory which says *alx-pre_course*.
 * Navigate to this **new directory**.
 * Initialize git and add the remote origin
